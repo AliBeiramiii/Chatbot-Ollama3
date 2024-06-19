@@ -22,11 +22,11 @@ This repository contains two Streamlit applications:
 
 4. *Run the Chatbot:*
 
-   `streamlit run chatbot.py`
+   `streamlit run src/chatbot.py`
 
 5. *Run the Optimization Guide:*
 
-   `streamlit run documentation.py`
+   `streamlit run src/main.py`
 
 ## Features
 
